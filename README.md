@@ -13,6 +13,10 @@
 
 python main.py
 
+## 使用範例
+
+![範例](assets/canvas.jpg)
+
 ## 目錄結構
 
 ```
